@@ -1,0 +1,32 @@
+Name/Brand of Vehicle
+WAGNOR,LXI E-11
+Maker's Name
+MARUTHUDYOG LTD.
+Vehicle Class
+LMV(MOTOR CAR)
+4 Cubic Capacity 1061CC
+S WHITE
+No.of Cylinders
+Unladen Weight(kg)
+825K Colour
+Type of Body
+H.P.A./Lease Agg
+SALOON
+MAGMA SHRACHI FIN
+Dealer's Name
+JAGMOHAN MOTORS
+SONIPAT
+Address
+Registration Valid Upto
+Road Tax Paid Upto
+22/01/2023
+One Time
+10/03/2008
+Date of Issue
+REGISTERING AUTHOPITY
+Specimen Signature
+M.V. GANAUR
+3114
+of Regd. Owner
+14 09 2011 15 12
+Name/BrandofVehicleWAGNOR,LXIE-11Maker'sNameMARUTHUDYOGLTD.VehicleClassLMV(MOTORCAR)4CubicCapacity1061CCSWHITENo.ofCylindersUnladenWeight(kg)825KColourTypeofBodyH.P.A./LeaseAggSALOONMAGMASHRACHIFINDealer'sNameJAGMOHANMOTORSSONIPATAddressRegistrationValidUptoRoadTaxPaidUpto22/01/2023OneTime10/03/2008DateofIssueREGISTERINGAUTHOPITYSpecimenSignatureM.V.GANAUR3114ofRegd.Owner140920111512
