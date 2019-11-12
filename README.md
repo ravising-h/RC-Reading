@@ -7,9 +7,13 @@
                                *Image of a typical RC Book*
 To Use this repo
 Clone this repo in your pc
+
 `$ git clone https://github.com/ravising-h/RC-Reading`
+
 If you want to use tesseract then keep Images in Image folder and make a Text folder and type command
+
 `$ python extractingInfo.py t Image Text`
+
 If you want to use Google.Vision API then Set Up the Enviroment for more help [visit here](https://cloud.google.com/vision/?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-bkws-all-all-trial-b-dr-1003987&utm_content=text-ad-none-none-DEV_c-CRE_252375308317-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+~+T1+%7C+BMM+%7C+ML+%7C+M:1+%7C+IN+%7C+en+%7C+Vision+%7C+OCR-KWID_43700030447551997-kwd-327501810122&userloc_9061667&utm_term=KW_%2Bgoogle%20%2Bocr%20%2Bapi&ds_rl=1264446&gclid=CjwKCAiAzanuBRAZEiwA5yf4utfSwOb9bqzpQvLuAQ7ywFZmw4PreT7EPI_VN8mTyBIB6yxOwv5cRBoCDzMQAvD_BwE). Then type the command by repeating above process mentioned in tesseract
 
 `$  python extractingInfo.py g Image Text` 
