@@ -15,13 +15,13 @@ If you want to use Google.Vision API then Set Up the Enviroment for more help [v
 `$  python extractingInfo.py g Image Text` 
 
 requirments:
-`1. tqdm`
-`2. google SDK`
-`3. Tesseract`
-`4. Pandas`
-`5. io`
-`6. difflib`
-`7. re`
+1. tqdm
+2. google SDK
+3. Tesseract
+4. Pandas
+5. io
+6. difflib
+7. re
 
 The Output file looks like this:
 `GOVERNMENT OF HARYANA
